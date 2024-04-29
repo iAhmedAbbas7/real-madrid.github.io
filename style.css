@@ -1,0 +1,63 @@
+#F:hover{
+    color: #4267B2;
+    cursor: pointer;
+}
+
+#I:hover{
+    color:#F56040;
+    cursor: pointer;
+}
+
+#T:hover{
+    color:#00acee;
+    cursor: pointer;
+}
+
+#Y:hover{
+    color:#FF0000;
+    cursor: pointer;
+}
+
+#S:hover{
+    color:#FFFC00;
+    cursor: pointer;
+}
+
+#W:hover{
+    color:#6441a5;
+    cursor: pointer;
+}
+
+#SS:hover{
+    color: darkgray;
+    cursor: pointer;
+}
+
+#C:hover{
+    color:green;
+    cursor: pointer;
+}
+
+#E:hover{
+    color: brown;
+    cursor: pointer;
+}
+
+#A:hover{
+    color: #3DDC84;
+    cursor: pointer;
+}
+
+#AA:hover{
+    color: #A2AAAD;
+    cursor: pointer;
+}
+
+#M:hover{
+    color: #00A4EF;
+    cursor: pointer;
+}
+
+.navbar .navbar-nav .nav-link:hover{
+    text-decoration: underline;
+}
